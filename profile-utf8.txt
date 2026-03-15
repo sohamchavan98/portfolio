@@ -1,0 +1,154 @@
+﻿Contact
+sohamchavan98@gmail.com
+www.linkedin.com/in/
+sohamrchavan (LinkedIn)
+soham-chavan-data-analyt-
+k5h2myb.gamma.site/ (Portfolio)
+Top Skills
+LangChain
+MySQL
+Data Pipelines
+Certifications
+Infosys Certified Python Associate
+IBM Data Analysis with Python
+Certificate
+SAS Visual Statistics on SAS Viya:
+Interactive Model Building
+Infosys Certified Basic Linux
+Administrator
+Infosys Certified PL-SQL Associate
+Honors-Awards
+Best Employee Award Dec 2023
+Soham Chavan
+Data Scientist & Analytics Leader | Turning Data into Revenue &
+Strategy | Built ML & GenAI Systems Driving $2M+ Impact | Python,
+SQL, Power BI | Ex-Infosys | MSU BDSA
+United States
+Summary
+IΓÇÖm a data science and analytics professional with 5+ years of
+industry experience delivering end-to-end analytics, machine
+learning, and GenAI solutions across enterprise and growth-stage
+organizations.
+IΓÇÖve built production ML models, RAG pipelines, and analytics
+platforms that drove $2M+ in revenue impact, improved model
+accuracy (AUC 0.90), increased offer precision by 25%, and
+supported $0.8M+ investment decisions.
+My experience spans Python, SQL, R, Power BI, Tableau, ML
+modeling, experimentation, ETL pipelines, and GenAI (LLMs,
+embeddings, vector databases, LangChain). I specialize in
+translating complex data into executive-ready insights and scalable
+decision systems.
+Previously at Infosys, Qahwah House, and Maxval Technologies, I
+partnered with business, engineering, and leadership teams to solve
+real-world problems across finance, retail, operations, and strategy.
+I recently completed my MS in Business Data Science & Analytics
+(STEM, GPA 4.0) at Michigan State University and am actively
+seeking full-time roles in:
+Data Science | Data Analytics | Business Intelligence | GenAI / ML
+Engineering
+Open to relocate | Open to remote, hybrid, or on-site roles
+Experience
+Russell Palmer Career Management Center - Broad College of
+Business, Michigan State University
+Page 1 of 4
+
+-- 1 of 4 --
+
+Data Analyst - Global Student Ambassador
+August 2025 - December 2025 (5 months)
+East Lansing, Michigan, United States
+Contributing to MSUΓÇÖs Global Career Initiatives by supporting employer
+relations, student engagement, and data-driven program evaluation.
+ΓÇó Supported the Global Career Initiatives team in delivering 15+ global career
+events, including Bootcamp, Translating International Experiences workshops,
+CPT/OPT sessions, employer networking, and the Global Career Panel &
+Mixer
+ΓÇó Assisted 20+ employer partners during campus recruitment, interviews, and
+networking sessions to enhance candidate-employer interactions
+ΓÇó Led targeted outreach campaigns promoting global career programs to
+international student communities, contributing to 600+ event registrations
+ΓÇó Coordinated logistics for high-impact student programming, ensuring
+seamless execution of workshops, employer sessions, and cross-cultural
+engagement initiatives
+ΓÇó Conducted a comprehensive data analysis project across 15 events (600+
+registrations, 300+ attendees) to uncover patterns in student engagement,
+demographics, event effectiveness, and preferred formats
+ΓÇó Delivered data-driven recommendations that improved programming
+decisions, strengthened employer partnerships, and enhanced support for
+international student career development
+ΓÇó Acted as a liaison between students and corporate partners, helping expand
+opportunities in finance, consulting, supply chain, data/analytics, and tech
+fields
+Qahwah House
+Data Science Intern
+July 2025 - August 2025 (2 months)
+Dearborn, Michigan, United States
+Worked on a high-impact data science project focused on strategic store
+expansion for Qahwah House, one of the fastest-growing culturally authentic
+coffeehouse brands in North America.
+Key responsibilities and contributions:
+ΓÇó Enhanced site-selection accuracy by 35% by building a Random Forest
+model with advanced feature engineering and hyperparameter tuning,
+integrating demographic, competition, and mobility datasets.
+Page 2 of 4
+
+-- 2 of 4 --
+
+ΓÇó Delivered AUC = 0.90 predictive insights that guided $0.8 M in capital
+investments, shaping Q4 expansion and risk assessment.
+ΓÇó Designed and deployed automated GIS + Power BI dashboards visualizing
+retail potential and pinpointing 12 high-ROI locations, accelerating leadership
+decision-making.
+Infosys
+2 years 11 months
+Senior Data Analyst
+April 2024 - December 2024 (9 months)
+India
+ΓÇó Architected an end-to-end Retrieval-Augmented Generation (RAG) system
+using LangChain and OpenAI, utilizing Vector Databases and text-embeddings
+to synthesize competitor intelligence, reducing manual research effort by 40%.
+ΓÇó Designed and deployed core components of a credit scoring and
+recommendation platform analyzing 500K+ customer profiles, improving offer
+precision by 25% and increasing average order value by 12%.
+ΓÇó Mentored 30+ analysts on SQL optimization, Power BI and statistical
+modeling practices, reducing onboarding time by 35%.
+Recognition:
+Proud recipient of the Insta Rise Award (Dec 2023) for delivering exceptional
+results in a high-impact data analytics and machine learning project.
+Data Analyst
+February 2022 - April 2024 (2 years 3 months)
+India
+ΓÇó Automated 12+ Power BI dashboards using SQL stored procedures and ETL
+pipelines, reducing report latency by 40% and improving data reliability across
+compliance metrics.
+ΓÇó Conducted A/B and multivariate testing on customer onboarding flows,
+increasing conversion by 9% and retention by 7%.
+ΓÇó Collaborated with data engineers and data scientists teams in Agile sprints
+(JIRA) to optimize data pipelines.
+Maxval Technologies Pvt Ltd
+Business Data Analyst (Promoted)
+March 2020 - February 2022 (2 years)
+Maharashtra, India
+Page 3 of 4
+
+-- 3 of 4 --
+
+ΓÇó Built scalable Python + SQL ETL pipelines processing 2 M+ client records,
+improving analytics for enterprise reporting.
+ΓÇó Developed forecasting and time-series models (Python/Excel) that increased
+staffing and capacity-planning accuracy by 40%.
+ΓÇó Deployed R-based behavioral segmentation to refine marketing strategies,
+increasing campaign ROI by 12%.
+ΓÇó Created financial dashboards (Tableau) reducing operational costs by 17%
+through actionable cost-visibility insights.
+ΓÇó Collaborated with DBAs to establish data validation and reconciliation
+frameworks, ensuring end-to-end data accuracy.
+Education
+Michigan State University
+Master's degree, Business Data Science and Analytics ┬╖ (January 2025)
+University of Mumbai
+Bachelor of Engineering - BE, Mechanical Engineering ┬╖ (2015 - 2019)
+Page 4 of 4
+
+-- 4 of 4 --
+
